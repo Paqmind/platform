@@ -6,7 +6,7 @@ Issue tracker for Paqmind's [learning platform](http://paqmind.com).
 2. Tickets about the platforms bugs should also be raised here.
 3. General questions shouldn't be raised here (use Disqus threads or Quora/Stackoverflow/...).
 
-Make a search before your raise a ticket. All tickets should have be formatted like:
+Make a search before your raise a ticket. All tickets should be formatted like:
 
 ```
 {course}/{lesson}/{challenge}
