@@ -6,16 +6,20 @@ Issue tracker for Paqmind's [learning platform](http://paqmind.com).
 2. Tickets about the platforms bugs should also be raised here.
 3. General questions shouldn't be raised here (use Disqus threads or Quora/Stackoverflow/...).
 
-Make a search before your raise a ticket. All tickets should have titles in the format:
+Make a search before your raise a ticket. All tickets should have be formatted like:
 
 ```
-[course]/[lesson]/[challenge]
+{course}/{lesson}/{challenge}
+or
+{course}/{lesson}/{challenge} ({challengePart}) -- multipart challenges
 ```
 
 for example:
 
 ```
 programming-beginner/9.collections/1.2.ta
+or
+programming-beginner/8.functions/4.1.ta (3) -- multipart challenges
 ```
 
 ---
