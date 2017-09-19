@@ -1,6 +1,6 @@
 # Paqmind
 
-Issue tracker for [Paqmind](http://paqmind.com) learning platform. 
+Issue tracker for Paqmind's [learning platform](http://paqmind.com). 
 
 1. Tickets about the content mistakes should be raised here.
 2. Tickets about the platforms bugs should also be raised here.
