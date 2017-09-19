@@ -9,9 +9,9 @@ Issue tracker for Paqmind's [learning platform](http://paqmind.com).
 Make a search before your raise a ticket. All tickets should be formatted like:
 
 ```
-{course}/{lesson}/{challenge}
+{course}/{lesson}/{challenge} – to address the whole challenge
 or
-{course}/{lesson}/{challenge} ({challengePart}, ...) -- to address the exact part of a challenge
+{course}/{lesson}/{challenge} ({challengePart}, ...) – to address the particular part of it
 ```
 
 for example:
