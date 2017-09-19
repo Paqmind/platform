@@ -11,7 +11,7 @@ Make a search before your raise a ticket. All tickets should be formatted like:
 ```
 {course}/{lesson}/{challenge}
 or
-{course}/{lesson}/{challenge} ({challengePart}, ...) -- multipart challenges
+{course}/{lesson}/{challenge} ({challengePart}, ...) -- the exact part of a challenge
 ```
 
 for example:
@@ -19,7 +19,7 @@ for example:
 ```
 programming-beginner/9.collections/1.2.ta
 or
-programming-beginner/8.functions/4.1.ta (3, 4) -- multipart challenges
+programming-beginner/8.functions/4.1.ta (3, 4) -- the exact part of a challenge
 ```
 
 ---
