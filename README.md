@@ -1,4 +1,4 @@
-# Paqmind
+# Paqmind Platform
 
 Issue tracker for Paqmind's [learning platform](http://paqmind.com). 
 
