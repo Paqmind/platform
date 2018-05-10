@@ -71,6 +71,8 @@ Draft and schedule the relevant topics for "Programming" and closely related ser
 
 ## Under consideration
 
+- **Modules** – language specific, better covered by JS series (and, oh boy, JS has *many*)
+- **Types** – language specific, better covered by JS series (or TypeScript)
 - **Unit tests** ??
 - **Integration tests** ??
 - **Applied Statistics (basics)** ??
