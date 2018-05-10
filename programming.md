@@ -68,3 +68,18 @@ Draft and schedule the relevant topics for "Programming" and closely related ser
 - **Parsers and DSLs** ??
 - **Parallel computations** ??
 - **Distributed computations** ??
+
+## Under consideration
+
+- **Unit tests** ??
+- **Integration tests** ??
+- **Applied Statistics (basics)** ??
+- **Applied Linear Algebra (basics)** ??
+
+## Extracted to separate series
+
+- **Asynchronisity** 100%
+- **Static Typing** 60%
+- **Functional Programming** 60%
+- **__all competent topics__** 40%
+- **__all expert topics__** 60%
