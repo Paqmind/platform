@@ -1,23 +1,22 @@
+## Discrete Math I (Beginner)
+
+1. **Intro.** Warmup with logic, numbers, etc.
+2. **Sets.** Introduction to Set Theory.
+3. **Booleans.** Introduction to Boolean Algrebra. 
+3. **Functions.** Relations and Functions. 
+
 ## Programming I (Beginner)
 
 ### Includes
 
 1. **Intro.** Calculations. Practise math functions and operators.
-
 2. **Variables.** Get a concept. Practise more realistic calculations.
-
 3. **Booleans.** Practise arguably the most characteristic programming type.
-
 4. **Conditions.** Boolean-based statements & expressions. Practise and compare different conditionals.
-
 5. **Collections.** Compound values. Practise arrays and objects and compare them.
-
 6. **Loops.** Collection-related statements. Practise and compare different loops.
-
 7. **Strings.** Another collection type. Use conditions and loops to handle strings.
-
 8. **Functions.** The most important software abstraction. Practise all of the above.
-
 9. **Immutability.** In contrast to Mutability. Yield first patterns and "best practices".
 
 ### Excludes
