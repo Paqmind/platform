@@ -38,11 +38,11 @@
 - **Regular expressions** ??
 - **First class objects** ??
 - **Recursions** ??
-- **Scoping and Closures** ??
+- **Scoping and closures** ??
 - **Basic FP** (map, filter, reduce) ??
 - **Error handling** ??
 - **Notations (prefix vs infix)** ??
-- **More Datastructures** (sets, lists, trees, queues) ??
+- **More datastructures** (sets, lists, trees, queues) ??
 
 ## Programming III (Competent)
 
@@ -52,16 +52,16 @@
 - **Functors, Applicatives, Monads** ??
 - **Lazy evaluation** ??
 - **Lenses** ??
-- **Minimax** ??
 - **Dynamic programming** ??
+- **Minimax** ??
 
 ## Programming IV (Expert)
 
 ### Includes
 
+- **Traversals, Zippers** ??
+- **Advanced algorithms** ??
+- **Recursion schemes** ??
 - **Parsers and DSLs** ??
 - **Parallel computations** ??
 - **Distributed computations** ??
-- **Advanced algorithms** ??
-- **Recursion schemes** ??
-- **Traversal, Zippers** ??
