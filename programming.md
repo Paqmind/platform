@@ -1,3 +1,7 @@
+# Programming
+ 
+Draft and schedule the relevant topics for "Programming" and closely related series.
+
 ## Discrete Math I (Beginner)
 
 1. **Intro.** Warmup with logic, numbers, etc.
