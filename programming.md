@@ -71,7 +71,7 @@ Draft and schedule the relevant topics for "Programming" and closely related ser
 
 ## Under consideration
 
-- **Modules** – language specific, better covered by JS series (and, oh boy, JS has *many*)
+- **Modules** – language specific, better covered by JS series (and, oh boy, JS has *many*). Some II+ courses may assume a basic module knowledge (not an overestimation)
 - **Types** – language specific, better covered by JS series (or TypeScript)
 - **Unit tests** ??
 - **Integration tests** ??
