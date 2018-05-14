@@ -79,6 +79,7 @@ Drafts and schedules for "Programming" and related series.
 - **Integration tests** ??
 - **Applied Statistics (basics)** ??
 - **Applied Linear Algebra (basics)** ??
+- **Finite state machines** ??
 
 ## Extracted to separate series
 
