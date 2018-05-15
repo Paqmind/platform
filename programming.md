@@ -13,16 +13,13 @@ Drafts and schedules for "Programming" and related series.
 
 ### Includes
 
-1. **Intro.** Calculations. Practise math functions and operators.
-2. **Variables.** Get a concept. Practise more realistic calculations.
-3. **Booleans.** Practise arguably the most characteristic programming type.
-4. **Conditions.** Boolean-based statements & expressions. Practise and compare different conditionals.
-5. **Arrays.** First collection type. Length, indexing, declarations.
-6. **Loops.** Collection-related statements. Practise and compare different loops.
-7. **Strings.** Another collection type. Use conditions and loops to handle strings.
-8. **Functions.** The most important software abstraction. Practise all of the above.
-9. **Objects.** Third collection type. Length, properties, declarations.
-10. **Immutability.** In contrast to Mutability. Yield first patterns and "best practices".
+1. **Intro.** Practise functions and operators for numeric calculations.
+2. **Variables.** Split calculations on steps using variables.
+3. **Functions.** Use a function abstraction to abstract calculations.
+4. **Datatypes.** Declarations, properties, structuring & destructuring.
+5. **Conditions.** Practice and compare different conditionals.
+6. **Loops.** Practice and compare different loops.
+7. **Mutability.** In contrast to Immutability. Yield first patterns and "best practices".
 
 ### Excludes
 
