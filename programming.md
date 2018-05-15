@@ -13,7 +13,7 @@ Drafts and schedules for "Programming" and related series.
 
 ### Includes
 
-1. **Calculations.** Practise functions and operators for numeric calculations.
+1. **Calculations.** Start from numeric calculations.
 2. **Variables.** Split calculations on steps using variables.
 3. **Datatypes.** Declarations, properties, structuring & destructuring.
 4. **Functions and Operations.** Use a function abstraction to abstract calculations.
