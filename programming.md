@@ -7,16 +7,16 @@ Drafts and schedules for "Programming" and related series.
 1. **Intro.** Warmup with logic, numbers, etc.
 2. **Sets.** Introduction to Set Theory.
 3. **Booleans.** Introduction to Boolean Algrebra. 
-3. **Functions.** Relations and Functions. 
+3. **Relations and Functions.** ...
 
 ## Programming I (Beginner)
 
 ### Includes
 
-1. **Intro.** Practise functions and operators for numeric calculations.
+1. **Calculations.** Practise functions and operators for numeric calculations.
 2. **Variables.** Split calculations on steps using variables.
-3. **Functions.** Use a function abstraction to abstract calculations.
-4. **Datatypes.** Declarations, properties, structuring & destructuring.
+3. **Datatypes.** Declarations, properties, structuring & destructuring.
+4. **Functions and Operations.** Use a function abstraction to abstract calculations.
 5. **Conditions.** Practice and compare different conditionals.
 6. **Loops.** Practice and compare different loops.
 7. **Mutability.** In contrast to Immutability. Yield first patterns and "best practices".
