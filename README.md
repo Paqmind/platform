@@ -1,26 +1,16 @@
-# Paqmind Platform
+# Paqmind
 
-Issue tracker for Paqmind's [learning platform](http://paqmind.com). 
+Public issue tracker for [Paqmind.com](http://paqmind.com).
 
-1. Tickets about the content mistakes should be raised here.
-2. Tickets about the platforms bugs should also be raised here.
-3. General questions shouldn't be raised here (use Disqus threads or Quora/Stackoverflow/...).
+### What can I do here?
 
-Make a search before your raise a ticket. All tickets should be formatted like:
+1. Raise an issue about some **content mistakes** you think you found at paqmind.com.
+2. Raise an issue about **technical problems** you experienced at paqmind.com.
+3. Raise an issue about **possible tutorials** you'd like to see at paqmind.com.
 
-```
-{course}/{lesson}/{challenge} – to address the whole challenge
-or
-{course}/{lesson}/{challenge} ({challengePart}, ...) – to address the particular part of it
-```
+**General questions** should not be raised here (please use discussion tabs at paqmind.com or ask at the appropriate sites: Quora/Stackoverflow/... – you can even ping us at twitter.com/ivankleshnin if you want one of paqmind's authors to answer your question.
 
-for example:
-
-```
-programming-beginner/9.collections/1.2.ta
-or
-programming-beginner/8.functions/4.1.ta (3, 4)
-```
+Make a search before your raise a ticket. 
 
 ---
 
