@@ -4,9 +4,9 @@ Public issue tracker for [Paqmind.com](https://paqmind.com).
 
 ### What can I do here?
 
-1. Raise an issue about **content mistakes** you think you found at Paqmind.com.
-2. Raise an issue about **technical problems** you experienced at Paqmind.com.
-3. Raise an issue or vote for **possible tutorials** you'd like to see at Paqmind.com.
+1. Raise an [issue](https://github.com/Paqmind/platform/issues) about **content mistakes** you think you found at Paqmind.com.
+2. Raise an [issue](https://github.com/Paqmind/platform/issues) about **technical problems** you experienced at Paqmind.com.
+3. Raise an [issue](https://github.com/Paqmind/platform/issues) or [vote](https://github.com/Paqmind/platform/issues) for **possible tutorials** you'd like to see at Paqmind.com.
 
 **General questions** should not be raised here (please use discussion tabs at Paqmind.com or ask at the appropriate sites: StackOverflow, Quora, etc. You can ping us at [Twitter](https://twitter.com/ivankleshnin) if you want one of Paqmind's authors to answer your public question.
 
