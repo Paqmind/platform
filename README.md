@@ -4,7 +4,7 @@ Public issue tracker for [Paqmind.com](https://paqmind.com).
 
 ### What can I do here?
 
-1. Raise an issue about some **content mistakes** you think you found at Paqmind.com.
+1. Raise an issue about **content mistakes** you think you found at Paqmind.com.
 2. Raise an issue about **technical problems** you experienced at Paqmind.com.
 3. Raise an issue about **possible tutorials** you'd like to see at Paqmind.com.
 
