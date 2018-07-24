@@ -1,6 +1,6 @@
 # Paqmind
 
-Public issue tracker for [Paqmind.com](http://paqmind.com).
+Public issue tracker for [Paqmind.com](https://paqmind.com).
 
 ### What can I do here?
 
