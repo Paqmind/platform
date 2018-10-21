@@ -10,9 +10,9 @@ node_modules/ -- NPM dependencies
 package.json
 ```
 
-Each language/platform has its own naming conventions so the only required thing is `content` folder.
+Each language/platform has its own naming conventions so the only required thing is the `content` folder.
 
-Current theme/tutorial structure represents an initial idea that each author will curated a single theme.
+Current theme/tutorial structure represents an initial idea that each author will curate a single theme.
 That will likely change so tutorials will probably get themeID reference (in YAML) and will probably
 lose initial number (in folder name). It will be trivial to update and no bigger structural changes
 are planned so far ;)
