@@ -1,7 +1,8 @@
 # Readme
 
 The only required thing is the `content` folder. Each language/platform has its own naming conventions
-so you're free to install packages and do whatever else in the project folder.
+so you're free to install packages and do whatever else in the project folder as long as it doesn't
+interfere with the `content`.
 
 The following scheme renders a layout idea:
 
