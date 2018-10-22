@@ -2,6 +2,9 @@
  
 Drafts and schedules for "Programming" and related series.
 
+> Note: oudated. We decided not have to language-, framework-, tool-specific themes/courses.
+> The following should be update accordingly.
+
 ## Discrete Math I (Beginner)
 
 1. **Intro.** Warmup with logic, numbers, etc.
